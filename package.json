@@ -4,7 +4,8 @@
   "private": true,
   "main": "src/index.js",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "dev": "node --watch src/server.js"
   },
   "dependencies": {
     "ua-parser-js": "1.0.39"
