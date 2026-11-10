@@ -1,0 +1,12 @@
+{
+  "name": "line-ua-detect",
+  "version": "0.0.1",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "ua-parser-js": "1.0.39"
+  }
+}
